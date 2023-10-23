@@ -1,0 +1,2 @@
+# ArgoCD Vault Plugin demo
+
